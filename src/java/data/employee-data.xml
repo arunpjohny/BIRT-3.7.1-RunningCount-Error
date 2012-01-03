@@ -1,0 +1,18 @@
+<root>
+	<employee>
+		<employee-no>01</employee-no>
+		<name>Arun</name>
+	</employee>
+	<employee>
+		<employee-no>02</employee-no>
+		<name>Krishna</name>
+	</employee>
+	<employee>
+		<employee-no>10</employee-no>
+		<name>John</name>
+	</employee>
+	<employee>
+		<employee-no>100</employee-no>
+		<name>Sami</name>
+	</employee>
+</root>
